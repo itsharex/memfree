@@ -35,7 +35,7 @@
 
 ## Qu'est-ce que MemFree
 
-MemFree is a <b>Moteur de recherche IA hybride</b>.
+MemFree est un<b>Moteur de recherche IA hybride</b>.
 
 Avec MemFree, vous pouvez obtenir instantanément des réponses précises à partir de votre base de connaissances et de l'ensemble d'Internet.
 
@@ -60,7 +60,7 @@ MemFree est équipé de fonctionnalités puissantes qui répondent à divers bes
 
 -   🌐**Plusieurs moteurs de recherche pris en charge**: Fonctionne avec Google, Exa et Vector.
 
--   🖼️**Format d'entrée de recherche multiple**: Texte, images, fichiers et pages Web, en particulier, il prend en charge la recherche, la comparaison, le résumé et l'analyse multi-images.
+-   🖼️**Format d'entrée de recherche multiple**: Texte, images, fichiers et pages Web, en particulier, il prend en charge la recherche, la comparaison, la synthèse et l'analyse multi-images.
 
 -   📊**Plusieurs méthodes de présentation des résultats**: Textes, cartes mentales, images et vidéos.
 
