@@ -48,9 +48,9 @@ Memfree nutzt das leistungsstärkste KI-Modell – Claude 3.5 Sonnet und das bel
 ## Was macht MemFree wertvoll?
 
 -   **Effizientes Wissensmanagement**: MemFree macht die manuelle Organisation von Notizen, Lesezeichen und Dokumenten überflüssig. Wenn Sie Informationen benötigen, suchen Sie einfach in MemFree, um schnell relevante Antworten zu finden, was Ihren Speicher frei macht und die Produktivität steigert.
--   **Zeitsparende KI-Zusammenfassungen**: Anstatt sich durch mehrere Google-Suchergebnisse zu klicken, nutzt MemFree KI, um sofort die besten Inhalte von Webseiten und Ihrer Wissensdatenbank zusammenzufassen und so wertvolle Zeit zu sparen.
+-   **Zeitsparende KI-Zusammenfassungen**: Instead of clicking through multiple Google search results, MemFree uses AI to instantly summarize the best content from web pages and your knowledge base, saving valuable time.
 -   **Kostengünstige Lösung**: Vermeiden Sie mehrere Abonnements für Dienste wie ChatGPT Plus, Claude Pro und Gemini Advanced. MemFree integriert deren Funktionalitäten und reduziert so die monatlichen Kosten erheblich.
--   **100x schnellere UI-Seitenerstellung**: Konvertieren Sie Text oder Bilder in Sekundenschnelle in beeindruckenden, produktionsbereiten Code. Visualisieren Sie Ihre Designs während der Erstellung. Veröffentlichen Sie Ihre Seiten nahtlos.
+-   **100x schnellere UI-Seitenerstellung**: Konvertieren Sie Text oder Bilder in Sekundenschnelle in atemberaubenden, produktionsbereiten Code. Visualisieren Sie Ihre Designs während der Erstellung. Veröffentlichen Sie Ihre Seiten nahtlos.
 
 ## MemFree Hybrid AI-Suchfunktionen
 
@@ -84,7 +84,7 @@ MemFree ist mit leistungsstarken Funktionen ausgestattet, die verschiedene Such-
 -   **🔍 KI-gestützte Inhaltssuche**: Bereichern Sie Ihre Benutzeroberfläche mit relevanten Inhalten mithilfe unserer erweiterten KI-Suchfunktion
 -   **🖼 Bildgesteuerte UI-Generierung**: Erstellen Sie UI-Komponenten und Seiten, die Ihren Referenzbildern genau entsprechen
 -   **📄 Datei-zu-Seite-Generierung**: Verwandeln Sie jeden Dateiinhalt in eine schön strukturierte Webseite mit KI-Analyse und KI-Zusammenfassung
--   **✏️ Code-Editor-Integration**: Bearbeiten und verfeinern Sie Ihren generierten Code mit VSCode-ähnlichen Bearbeitungsfunktionen, einschließlich Syntaxhervorhebung und automatischer Vervollständigung
+-   **✏️ Code-Editor-Integration**: Bearbeiten und verfeinern Sie Ihren generierten Code mit VSCode-ähnlichen Bearbeitungsfunktionen, komplett mit Syntaxhervorhebung und automatischer Vervollständigung
 -   **✨ Animationsunterstützung**: Erstellen Sie ansprechende Webseiten mit integrierten Animationseffekten und erwecken Sie Ihre Inhalte mit sanften Übergängen und dynamischen Elementen zum Leben
 -   **⚛️ React + TailWind + Shadcn UI-Integration**: Nutzen Sie KI-generierten Code mit dem beliebtesten Front-End-Stack: React, TailWind und Shadcn UI
 -   **🚀 One-Click-UI-Veröffentlichung**: Veröffentlichen und teilen Sie Ihre Benutzeroberfläche sofort mit einem einzigen Klick im Web
